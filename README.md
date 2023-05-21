@@ -1,15 +1,21 @@
 # Readme
 
-Welcome to Ingopedia!
+欢迎来到Ingopedia！
 
-This is a community-driven effort to compile a comprehensive collection of resources and information related to Zero Knowledge Proofs. Our goal is to provide a one-stop-shop for anyone interested in learning about ZKPs, from beginners to experts.
+这是一个由社区驱动的项目，致力于收集与零知识证明相关的资源和信息。我们的目标是为所有有兴趣学习ZKP的人提供一个站点，从初学者到专家。
 
-We invite the community to help us keep this book up-to-date and relevant. If you have any suggestions or contributions, please feel free to submit them through the appropriate channels. We believe that the power of the community lies in collaboration and sharing knowledge, so we encourage everyone to get involved.
+我们邀请社区帮助我们保持Ingopedia的最新和相关性。如果您有任何建议或投稿，请随时通过适当的渠道提交。我们相信社区的力量在于协作和分享知识，因此我们鼓励每个人参与其中。
 
-To keep this book organized, we ask that you use the designated sections for your contributions. If you have a new resource to share, please add it to the appropriate section. If you are unsure where to add your contribution, feel free to reach out to the moderators for guidance.
+为了使这本书有条理，我们要求您在指定的部分中添加您的贡献。如果您有新的资源要分享，请将其添加到相应的部分中。如果您不确定要添加您的贡献的位置，请随时联系管理员寻求指导。
 
-Thank you for being a part of our ZKP community and helping us build a valuable resource for all.
+感谢您成为我们ZKP社区的一部分，并帮助我们建立一个有价值的资源。
 
-Note: The branch master contains the src files for the ingopedia mdbook. Each page from the deployment page has a editable button that allows one to edit the markdown file of the specific page. 
+注意：分支master包含ingopedia mdbook的src文件。部署页面上的每个页面都有一个可编辑按钮，允许用户编辑特定页面的markdown文件。
 
-The old Ingopedia is still available in the branch main,  we are planning to continue in the mdbook format. Suggestions are welcome. 
+旧版Ingopedia仍然可以在main分支中使用，我们计划继续使用mdbook格式。欢迎提供建议。
+
+Nerdy Lion
+
+
+
+
